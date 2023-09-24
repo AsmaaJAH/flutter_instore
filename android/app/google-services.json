@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "149732667574",
+    "project_id": "instore-67527",
+    "storage_bucket": "instore-67527.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149732667574:android:c5472d3c047e609be83617",
+        "android_client_info": {
+          "package_name": "com.inova.instore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149732667574-d2dku86bl8h93hki7l4shukagh6l00ub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxJZPR-QcDZXWrxv-ov-W_rg1ItxRMMDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149732667574-btq0be1ca70pnukb9ifolr3h3r09cvnc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149732667574-4b7cncqdn1r358ruvcpdoatehi7en52s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.inova.flutterInstore.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
